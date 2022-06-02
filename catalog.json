@@ -1,0 +1,76 @@
+{
+    "products":[
+        {
+            "id":"Codepur001",
+            "name":"iPhone 13 Pro",
+            "desc":"Apple iPhone 13th generation",
+            "price":999,
+            "color":"#33505a",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1644969385433"
+
+        },
+        {
+            "id":"Codepur002",
+            "name":"Pixel 5",
+            "desc":"Google Pixel phone 5th generation",
+            "price":699,
+            "color":"#00ac51",
+            "image":"https://s3b.cashify.in/gpro/uploads/2020/08/03072513/google-pixel-5-right-side.png"
+
+        },
+        {
+            "id":"Codepur003",
+            "name":"M1 Macbook Air",
+            "desc":"Apple Macbook air with apple silicon",
+            "price":1099,
+            "color":"#e0bfae",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1633027804000"
+
+        },
+        {
+            "id":"Codepur004",
+            "name":"PlayStation 5",
+            "desc":"Sony Playstation 5th generation",
+            "price":500,
+            "color":"544ee4",
+            "image":"https://i.gadgets360cdn.com/products/large/sony-ps5-649x800-1592631239.jpeg"
+
+        },
+        {
+            "id":"Codepur005",
+            "name":"Airpods Pro",
+            "desc":"Apple Airpods Pro 1st generation",
+            "price":200,
+            "color":"#e3e4e9",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWP22?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1591634795000"
+
+        },
+        {
+            "id":"Codepur006",
+            "name":"ipad Pro",
+            "desc":"Apple ipad Pro 2020 edition",
+            "price":799,
+            "color":"#f73984",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104_GEO_IN_FMT_WHH?wid=1945&hei=2000&fmt=jpeg&qlt=95&.v=1617923524000"
+
+        },
+        {
+            "id":"Codepur007",
+            "name":"Galaxy S21 Ultra",
+            "desc":"Samsung Galaxy S21 Ultra 2021 Edition",
+            "price":1299,
+            "color":"#1c1c1c",
+            "image":"https://m.media-amazon.com/images/I/81kfA-GtWwL._SY606_.jpg"
+
+        },
+        {
+            "id":"Codepur008",
+            "name":"Galaxy S21",
+            "desc":"Samsung Galaxy S21 2021 Edition",
+            "price":899,
+            "color":"#7c95eb",
+            "image":"https://www.mytrendyphone.eu/images/Samsung-Galaxy-S21-5G-128GB-Phantom-Grey-8806090892776-18012021-01-p.jpg"
+
+        }
+    ]
+}
